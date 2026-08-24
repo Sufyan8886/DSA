@@ -1,3 +1,4 @@
+package Day_2_Linear_Search_Algorithm;
 public class wealthyCustomer {
     public static void main(String[] args) {
     

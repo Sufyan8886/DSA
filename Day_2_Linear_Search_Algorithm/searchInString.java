@@ -1,4 +1,4 @@
-package Day_2_Linear_search_Algorithm;
+package Day_2_Linear_Search_Algorithm;
 
 public class searchInString {
 

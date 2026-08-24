@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.function.Function;
 
 public class arrays {
 public static void main(String[] args) {

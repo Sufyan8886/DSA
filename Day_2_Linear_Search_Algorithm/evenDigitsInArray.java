@@ -1,3 +1,4 @@
+package Day_2_Linear_Search_Algorithm;
 public class evenDigitsInArray {
 
     public static void main(String[] args) {

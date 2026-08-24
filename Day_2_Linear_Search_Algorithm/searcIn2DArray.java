@@ -1,3 +1,4 @@
+package Day_2_Linear_Search_Algorithm;
 import java.util.Arrays;
 
 public class searcIn2DArray {
